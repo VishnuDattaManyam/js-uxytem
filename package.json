@@ -2,5 +2,8 @@
   "name": "js-uxytem",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "fuse-box": "^3.7.1"
+  }
 }
