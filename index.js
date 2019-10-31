@@ -1,5 +1,4 @@
 // Import stylesheets
-import './style.css';
 import { TextBox } from './components/text-box/text-box.js';
 
 // Write Javascript code!

@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {},
   "devDependencies": {
+    "eslint": "^6.6.0",
     "fuse-box": "^3.7.1"
   }
 }
