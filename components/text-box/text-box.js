@@ -1,3 +1,5 @@
+import { htmlUtil } from '../../utils/html-util.js';
+
 class TextBox {
   constructor(settings) {
     this.options = {
@@ -9,6 +11,6 @@ class TextBox {
   }
 
   getUI() {
-    return 
+    return htmlUtil;
   }
 }
